@@ -18,6 +18,6 @@ but I recommend to use `godotenv addons install`. see [GodotEnv's readme](https:
 ```json
     "zeromq": {
       "url": "https://github.com/funatsufumiya/godot_zeromq_bin",
-      "checkout": "v0.1.0",
+      "checkout": "v0.1.1",
     },
 ```
